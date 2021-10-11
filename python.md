@@ -50,6 +50,10 @@ for date, riders in entries:
 # Print the first 31 records
 print(list(ridership_date.items())[:31])
 ```
+
+[Dealing with datetime in python](./python-datetime.md)
+
+
 <details>
   <summary>Click to expand!</summary>
   
