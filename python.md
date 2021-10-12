@@ -52,7 +52,10 @@ print(list(ridership_date.items())[:31])
 ```
 
 [Dealing with datetime in python](./python-datetime.md)
-
+[Pendulum module other way to deal with dates in python](./python-pendulum.md)
+# set enviorment variables like this
+export SPOTIPY_CLIENT_ID='7f8d9b68**********fe40d755dfd8cf4'
+export SPOTIPY_CLIENT_SECRET='f50bbbc*********a49f736e1c0f'
 
 <details>
   <summary>Click to expand!</summary>
